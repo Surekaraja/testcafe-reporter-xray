@@ -4,9 +4,9 @@
   "description": "xray TestCafe reporter plugin.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antreyes/testcafe-reporter-xray.git"
+    "url": "git+https://github.com/Surekaraja/testcafe-reporter-xray.git"
   },
-  "author": "Antonio REYES <antonio.reyes@manomano.com> (https://github.com/antreyes)",
+  "author": "Sureka (https://github.com/Surekaraja)",
   "main": "lib/index",
   "files": [
     "lib"
@@ -45,9 +45,9 @@
     "yargs": "^15.3.1"
   },
   "bugs": {
-    "url": "https://github.com/antreyes/testcafe-reporter-xray/issues"
+    "url": "https://github.com/Surekaraja/testcafe-reporter-xray/issues"
   },
-  "homepage": "https://github.com/antreyes/testcafe-reporter-xray#readme",
+  "homepage": "https://github.com/Surekaraja/testcafe-reporter-xray#readme",
   "directories": {
     "lib": "lib",
     "test": "test"
